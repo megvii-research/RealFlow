@@ -1,4 +1,4 @@
-# [ECCV 2022] RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos
+# [ECCV 2022 Oral] RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos
 
 ## Requirements
 - torch>=1.8.1

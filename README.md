@@ -24,7 +24,7 @@ Top: previous methods use synthetic motion to produce training pairs. Bottom: we
 ## Rendered Datasets
 ![results](https://user-images.githubusercontent.com/1344482/180913871-cbbce758-8b03-46b5-b3a4-b07f0b229f82.JPG)
 
-Download part of [RF-AB](https://pan.baidu.com/s/17lBkQbYOR2TcoFvs3Zj93Q?pwd=w19u)
+Download part of RF-AB and pretrained model here(https://pan.baidu.com/s/17lBkQbYOR2TcoFvs3Zj93Q?pwd=w19u)
 
 Other datasets. Coming soon.
 
@@ -36,6 +36,8 @@ You can run the following command to render RF-Ktrain:
 ```shell
 python RealFlow.py
 ```
+You can also download ALOV and BDD100k from their official website to render RF-AB. Using utils/video2img.py to capture pictures.
+
 
 You can simply render a new pair using:
 ```shell

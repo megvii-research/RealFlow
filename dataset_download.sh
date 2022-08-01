@@ -33,4 +33,6 @@ wget https://data.megengine.org.cn/research/realflow/RFAB-flow-Apart2.zip
 wget https://data.megengine.org.cn/research/realflow/RFAB-flow-Apart3.zip
 wget https://data.megengine.org.cn/research/realflow/RFAB-flow-Bpart0.zip
 wget https://data.megengine.org.cn/research/realflow/RFAB-flow-Bpart1.zip
+wget https://data.megengine.org.cn/research/realflow/RFAB-flow-Bpart2.zip
+wget https://data.megengine.org.cn/research/realflow/RFAB-flow-Bpart3.zip
 cd ..

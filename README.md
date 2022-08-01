@@ -26,15 +26,15 @@ Top: previous methods use synthetic motion to produce training pairs. Bottom: we
 
 #### Download
 
-There are **two ways** to download all the generated datasets (~300GB)  and pretrained models in our paper: 
+You can download all the generated datasets (~300GB) and pretrained models in our paper: 
 
-- Download using shell scripts `dataset_download.sh`  
+- Download the generated datasets using shell scripts `dataset_download.sh`  
 ```shell
 sh dataset_download.sh
 ```
 the dataset will be downloaded in `./RF_dataset`
 
- - Download from BaiduCloud [here](https://pan.baidu.com/s/17lBkQbYOR2TcoFvs3Zj93Q?pwd=w19u).
+ - Download the pretrained models using this link: [pretrained_models](todo).
 
 
 ## Render New Data

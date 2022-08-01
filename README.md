@@ -26,7 +26,7 @@ Top: previous methods use synthetic motion to produce training pairs. Bottom: we
 
 #### Download
 
-You can download all the generated datasets (~300GB) and pretrained models in our paper: 
+You can download all the generated datasets and pretrained models in our paper: 
 
 - Download the generated datasets using shell scripts `dataset_download.sh`  
 ```shell
@@ -34,7 +34,7 @@ sh dataset_download.sh
 ```
 the dataset will be downloaded in `./RF_dataset`
 
- - Download the pretrained models using this link: [pretrained_models](todo).
+ - Download the pretrained models using this link: [pretrained_models](https://data.megengine.org.cn/research/realflow/models.zip).
 
 
 ## Render New Data

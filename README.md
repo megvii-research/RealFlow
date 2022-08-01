@@ -50,5 +50,6 @@ Part of the code is adapted from previous works:
 - [DPT](https://github.com/isl-org/DPT)
 - [Softmax Splatting](https://github.com/sniklaus/softmax-splatting)
 
+Our datasets are generated from [KITTI](http://www.cvlibs.net/datasets/kitti/index.php), [Sintel](http://sintel.is.tue.mpg.de/), [BDD100k](https://github.com/bdd100k/bdd100k), [DAVIS](https://davischallenge.org/), and [ALOV](http://crcv.ucf.edu/data/ALOV++/).
 
-We thank all the authors for their awesome repos.
+We thank all the authors for their contributions.

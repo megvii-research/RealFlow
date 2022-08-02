@@ -16,6 +16,7 @@ cd ..
 
 # RF-Sintel
 mkdir RF-Sintel
+wget https://data.megengine.org.cn/research/realflow/RFAB-sintel-flow.zip
 cd RF-Sintel
 
 # RF-DAVIS

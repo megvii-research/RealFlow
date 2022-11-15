@@ -53,6 +53,19 @@ You can simply render a new pair using:
 python demo.py
 ```
 
+## Citation
+If you find this work useful for your research, please cite: 
+```
+@inproceedings{han2022realflow,
+  title={RealFlow: EM-Based Realistic Optical Flow Dataset Generation from Videos},
+  author={Han, Yunhui and Luo, Kunming and Luo, Ao and Liu, Jiangyu and Fan, Haoqiang and Luo, Guiming and Liu, Shuaicheng},
+  booktitle={European Conference on Computer Vision},
+  pages={288--305},
+  year={2022}
+}
+
+```
+
 ## Acknowledgements
 Part of the code is adapted from previous works:
 - [RAFT](https://github.com/princeton-vl/RAFT)

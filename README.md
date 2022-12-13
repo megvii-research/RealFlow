@@ -38,7 +38,7 @@ the dataset will be downloaded in `./RF_dataset`
 
 
 ## Render New Data
-Download the pretrained DPT model from [here](https://github.com/intel-isl/DPT/releases/download/1_0/dpt_large-midas-2f21e586.pt) and pretrained RAFT C+T model from [here](https://drive.google.com/drive/folders/1sWDsfuZ3Up38EUQt7-JDTT1HcGHuJgvT?usp=sharing)
+Download the pretrained DPT model from [here](https://github.com/intel-isl/DPT/releases/download/1_0/dpt_large-midas-2f21e586.pt) and pretrained RAFT C+T model (raft-things.pth) from [here](https://drive.google.com/drive/folders/1sWDsfuZ3Up38EUQt7-JDTT1HcGHuJgvT?usp=sharing)
 
 Download [KITTI multi-view](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php) Datasets.
 You can run the following command to render RF-Ktrain:
